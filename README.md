@@ -5,6 +5,9 @@ Hi there! 👋 I'm Muhamad Akbar Imron, an aspiring Web Developer currently honi
 🚀 Step by step, aiming to become a proficient programmer and create impactful digital experiences.
 
 Let’s connect and create something amazing together!
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact)
+
 
 <!--
 **akbarimron/akbarimron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

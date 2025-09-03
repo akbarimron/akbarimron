@@ -1,4 +1,4 @@
-# College Student in Computer Science Education, Universitas Pendidikan Indonesia
+# College Student in Computer Science Education, Indonesia University of Education
 
 Hi there! 👋 I'm Muhamad Akbar Imron, an aspiring Web Developer currently honing my skills in PHP and Laravel. I enjoy combining creativity with coding to build functional and beautiful web applications.
 

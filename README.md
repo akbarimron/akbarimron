@@ -1,8 +1,10 @@
-## hi pal!
+Hi there! 👋 I'm Muhamad Akbar Imron, an aspiring Web Developer currently honing my skills in PHP and Laravel. I enjoy combining creativity with coding to build functional and beautiful web applications.
 
-- 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning to be a good programmer
-- 😄 Pronouns:  Bare!
+🌱 Always eager to learn and grow, especially in Web Development, Game Development, and Data Structures.
+💻 Working on projects that challenge me to improve every day.
+🚀 Step by step, aiming to become a proficient programmer and create impactful digital experiences.
+
+Let’s connect and create something amazing together!
 
 <!--
 **akbarimron/akbarimron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

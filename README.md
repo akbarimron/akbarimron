@@ -93,16 +93,7 @@ current_goals:
 
 ---
 
-### 🚀 Featured Highlights & Projects
 
-| Project | Tech Stack | Description | Status / Link |
-|:---|:---:|:---|:---:|
-| **IBAF UPI Website** | `JavaScript` `HTML/CSS` `UI/UX` | Official web portal for Indonesian Batik & Art Festival Universitas Pendidikan Indonesia. | [Repository](https://github.com/akbarimron/IBAF-UPI-Website) |
-| **Penaguru Dashboard** | `PHP` `Laravel` `MySQL` `Tailwind` | Comprehensive educational management dashboard for educators and academic workflows. | [Repository](https://github.com/akbarimron/Penaguru-dashboard) |
-| **IoT Water Quality Analyzer** | `ESP32` `C++` `UART` `Sensors` | Multi-parameter physical & chemical water analysis node (pH, Turbidity, DS18B20 Temp, TDS, Water Level) with automated safety alarm. | [In Development](https://github.com/akbarimron) |
-| **RKLI Embedded Module** | `Hardware` `Electronics` `Microcontroller` | Compact smart hardware controller with integrated power management and toggle safety switching. | [Hardware Lab](https://github.com/akbarimron) |
-
----
 
 ### 📊 GitHub Activity & Metrics
 
